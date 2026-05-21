@@ -1,3 +1,4 @@
+![GitHub Streak](https://streak-stats.demolab.com?user=Kumegawwa&theme=tokyonight&hide_border=true)
 # Olá, eu sou o Lucas Kumegawa 👋
 
 **Desenvolvedor Back-End em formação** | Node.js • TypeScript • Java • SQL  
