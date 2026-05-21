@@ -61,9 +61,9 @@ Sistema de gerenciamento acadêmico em Java com arquitetura MVC, padrões Factor
 
 <div align="center">
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumegawwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Lucas's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kumegawwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumegawwa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kumegawwa&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
